@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-  Karma
+  Krishna
 </h1>
 </div>
 <p align="center">
